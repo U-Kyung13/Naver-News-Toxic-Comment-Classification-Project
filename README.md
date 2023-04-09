@@ -16,15 +16,16 @@
   2. 팀원 다섯명의 라벨의 최빈값을 최종 라벨로 사용
    
  - twitter-Korea을 이용한 한국어 형태소 분석
-  - 트위터 게시글과 같은 짧은 글에 특화되어 있어 댓글 데이터에 적합함
+    - 트위터 게시글과 같은 짧은 글에 특화되어 있어 댓글 데이터에 적합함
   
  - 모델링 : 최종적으로 SVM 선정
-  - 악성 댓글이 훨씬 적음 -> up sampling으로 클래스 불균형 해소
-  - AdaBoost
-  - Neural Network
-  - Random Forest
-  - SVM
+  1. 악성 댓글이 훨씬 적음 -> up sampling으로 클래스 불균형 해소
+  2. AdaBoost
+  3. Neural Network
+  4. Random Forest
+  5. SVM
   
 #### 결과
-
+- 전체 네이버 기사 댓글 EDA
+- 네이버 기사에서 벗어난 범용성이 있는 새로운 테스트 셋에 적용시켜봄
 - [발표영상](https://www.youtube.com/watch?v=TkLrDL0XnkM)
