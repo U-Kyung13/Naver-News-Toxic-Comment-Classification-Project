@@ -38,7 +38,7 @@
     ![모델선정](https://user-images.githubusercontent.com/90254892/236656081-47c45f3e-b79b-4ba0-b0d1-e16d4d4f759b.png)
       - 최종 모형으로 SVM 선택 
     
-    !
+    ![성능평가](https://user-images.githubusercontent.com/90254892/236656107-63067acd-0b87-4bd1-b280-cfb56254ed50.png)
   
 ### 결과
 - 전체 네이버 기사 댓글 EDA
