@@ -31,12 +31,12 @@
       ![데이터 전처리 예시](https://user-images.githubusercontent.com/90254892/236655976-8a3d1080-1a74-4aaf-88e8-6e4fbee7f539.png)
       - 데이터 전처리 
   
- - 모델링 : 최종적으로 SVM 선정
-   1. 악성 댓글이 훨씬 적음 -> up sampling으로 클래스 불균형 해소
-   2. AdaBoost
-   3. Neural Network
-   4. Random Forest
-   5. SVM
+ - 모델링
+   - 악성 댓글이 훨씬 적음 -> up sampling으로 클래스 불균형 해소
+   - 10-fold Cross Validation
+
+   ![모델선정]()
+
   
 ### 결과
 - 전체 네이버 기사 댓글 EDA
