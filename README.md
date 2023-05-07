@@ -35,8 +35,10 @@
    - 악성 댓글이 훨씬 적음 -> up sampling으로 클래스 불균형 해소
    - 10-fold Cross Validation
 
-   ![모델선정]()
-
+    ![모델선정](https://user-images.githubusercontent.com/90254892/236656081-47c45f3e-b79b-4ba0-b0d1-e16d4d4f759b.png)
+      - 최종 모형으로 SVM 선택 
+    
+    !
   
 ### 결과
 - 전체 네이버 기사 댓글 EDA
