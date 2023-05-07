@@ -42,5 +42,6 @@
   
 ### 결과
 - 전체 네이버 기사 댓글 EDA
+  
 - 네이버 기사에서 벗어난 범용성이 있는 새로운 테스트 셋에 적용시켜봄
 - [발표영상](https://www.youtube.com/watch?v=TkLrDL0XnkM)
