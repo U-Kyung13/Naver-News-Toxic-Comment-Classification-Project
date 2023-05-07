@@ -28,8 +28,7 @@
    
  - twitter-Korea을 이용한 한국어 형태소 분석
     - 트위터 게시글과 같은 짧은 글에 특화되어 있어 댓글 데이터에 적합함
-    ![데이터 전처리 예시] (https://user-images.githubusercontent.com/90254892/236655976-8a3d1080-1a74-4aaf-88e8-6e4fbee7f539.png
-)
+    ![데이터 전처리 예시] (https://user-images.githubusercontent.com/90254892/236655976-8a3d1080-1a74-4aaf-88e8-6e4fbee7f539.png)
       - 데이터 전처리 
   
  - 모델링 : 최종적으로 SVM 선정
