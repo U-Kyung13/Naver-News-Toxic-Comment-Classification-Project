@@ -42,6 +42,7 @@
   
 ### 결과
 - 전체 네이버 기사 댓글 EDA
-  
+  ![정치 워드클라우드](https://user-images.githubusercontent.com/90254892/236656149-b00f8cb2-bdf0-4870-b5d6-b430b74cca9e.png)
+    - '정치' 카테고리의 악성 댓글 워드클라우드
 - 네이버 기사에서 벗어난 범용성이 있는 새로운 테스트 셋에 적용시켜봄
 - [발표영상](https://www.youtube.com/watch?v=TkLrDL0XnkM)
